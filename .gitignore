@@ -1,0 +1,33 @@
+# Virtual environments
+venv/
+venv312/
+.env/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Temporary files
+temp.jpg
+*.tmp
+
+# Model weights (large file — download separately or train locally)
+# Comment out the line below if you want to include the pre-trained model
+# mymodel.h5
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
