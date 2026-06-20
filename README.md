@@ -29,7 +29,7 @@ A real-time face mask detection app powered by deep learning and a webcam. It us
 ### 1. Clone or Download the Project
 
 ```bash
-git clone https://github.com/your-username/FaceMaskDetector.git
+git clone https://github.com/sanjith-sanil/FaceMaskDetector.git
 cd FaceMaskDetector
 ```
 
